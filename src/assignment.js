@@ -22,7 +22,7 @@ function sumOfNumbersTo(destination) {
   return sum;
 }
 
-
+assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
  * Challenge - 2
@@ -59,6 +59,7 @@ function countEvenNumbersWithin(destination) {
   };
 }
 
+assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
 /**
  * Challenge - 3
